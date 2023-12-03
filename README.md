@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1667&label=Profile%20views&color=0e75b6&style=plastic" alt="vijay1667" /> </p>
 
-- 🌱 I’m currently learning **express.js, aws**
+- 🌱 I’m interested in **Innovative Projects**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **vijay.20bce7456@vitap.ac.in**
 
