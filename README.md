@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **vijay.20bce7456@vitap.ac.in**
+- 📫 How to reach me **madired3@msu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
