@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm an Undergrad Student at VIT-AP University</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm an Grad Student at Michigan State University</h1>
+<h3 align="center">A passionate Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1667&label=Profile%20views&color=0e75b6&style=plastic" alt="vijay1667" /> </p>
 
